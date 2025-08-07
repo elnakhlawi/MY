@@ -73,4 +73,9 @@ Welcome to your personal cybersecurity learning hub! This template will guide yo
 
 ---
 
+## 📘 important videos (optional)
+- https://youtu.be/WiYuS9ft78I?si=Rm4K2xxIbomSeTJi
+
+---
+
 > 🚀 **Tip:** Use the Notion checkboxes and toggle lists to track your learning!
